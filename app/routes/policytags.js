@@ -2,7 +2,7 @@ import Ember from 'ember';
 
 export default Ember.Route.extend({
   model() {
-    let url = "http://127.0.0.1:5001/api/policy_tags/";
+    let url = "http://35a1a922.ngrok.io/api/policy_tags/";
 
     return new Ember.RSVP.Promise(function(resolve, reject) {
       let xhr = new XMLHttpRequest();

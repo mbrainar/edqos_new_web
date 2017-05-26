@@ -1,5 +1,7 @@
 # new-web
 
+[![Build Status](https://travis-ci.org/sluzynsk/edqos_new_web.svg?branch=master)](https://travis-ci.org/sluzynsk/edqos_new_web)
+
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
